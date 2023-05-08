@@ -9,7 +9,7 @@
   <tr>
     <td><a href="index.html"><img src="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/Supply_Media/Logo%20for%20Web%20.png?raw=true" width="165" height="64" border="0"></a></p>
 <div id="page-title">HELP SCREENS</div>
-<div id="links"><a href="#motion">MOTION</a> | <a href="#looks">LOOKS</a> | <a href="#sound">SOUND</a> | <a href="#pen">PEN</a> | <a href="#control">CONTROL</a> | <a href="#sensing">SENSING</a> | <a href="#operators">OPERATORS</a> | <a href="#variables">VARIABLES</a></div>
+<div id="links"><a href="#motion">MOTION</a> | <a href="#looks">LOOKS</a> | <a href="#sound">SOUND</a> | <a href="#pen">PEN</a> | <a href="#control">CONTROL</a> | <a href="#sensing">SENSING</a> | <a href="#operators">OPERATORS</a> | <a href="#variables">VARIABLES</a> | <a href="#extras">EXTRAS</a> </div>
 <hr>
 <div id="links">To find out what any block does when you're using Scratch, right-click (Mac: ctrl+click) on the block and choose help:</br><img src="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/HelpScr_Media/images/help-menu.gif?raw=true"><hr></p></div>
 <div class="title"><font color="#4A6CD4">MOTION<a name="motion"></a></div>
@@ -163,23 +163,19 @@
 
 
 <div class="title"><font color="crimson">EXTRAS<a name="extras"></a></div>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/addVariable.gif" ></p>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/deleteVariable.gif" ></p>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/variable.gif"></p>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/variableSet.gif" width="556"></p>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/variableChangeBy.gif" width="556"></p>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/showVariable_.gif" ></p>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/hideVariable_.gif" ></p>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/addList.gif" width="556"></p>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/deleteList.gif" width="556"></p>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/contentsOfList_.gif" width="556"></p>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/append_toList_.gif" width="556"></p>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/deleteLine_ofList_.gif"></p>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/insert_at_ofList_.gif" width="556"></p>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/setLine_ofList_to_.gif" width="556"></p>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/getLine_ofList_.gif" width="556"></p>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/lineCountOfList_.gif" width="556"></p>
-<p><img src="https://raw.githubusercontent.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/main/HelpScr_Media/list_contains_.gif"></p>
+<p>These blocks will not work on Scratch or any other Scratch Mod.</p>
+<p><img src="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/HelpScr_Media/Modded%20Block/a.png?raw=true" ></p>
+<p><img src="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/HelpScr_Media/Modded%20Block/a2(1).png?raw=true" ></p>
+<p><img src="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/HelpScr_Media/Modded%20Block/a3(1).png?raw=true"></p>
+<p><img src="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/HelpScr_Media/Modded%20Block/a4(1).png?raw=true" width="556"</p>
+<p><img src="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/HelpScr_Media/Modded%20Block/a5.png?raw=true" width="556"></p>
+<p><img src="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/HelpScr_Media/Modded%20Block/a6.png?raw=true" width="556"></p>
+<p><img src="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/HelpScr_Media/Modded%20Block/a7.png?raw=true" width="556"></p>
+<p><img src="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/HelpScr_Media/Modded%20Block/a8.png?raw=true" width="556"></p>
+<p><img src="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/HelpScr_Media/Modded%20Block/a9.png?raw=true" width="556"></p>
+<p><img src="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/HelpScr_Media/Modded%20Block/a10.png?raw=true" width="556"></p>
+<p><img src="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/HelpScr_Media/Modded%20Block/a11.png?raw=true" width="556"></p>
+<p><img src="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/HelpScr_Media/Modded%20Block/a12.png?raw=true" width="556"></p>
 </td>
   </tr>
 </table>
