@@ -1,0 +1,21 @@
+Motion:
+make [sprite] move () steps - Shared by @MarioBlender
+<dragabble?> - Shared by @SSSS
+make [sprite] draggable/undraggable - Shared by @Greenatic, improved by @Scimonster
+make me draggable/undraggable - Shared by @Greenatic
+Control:
+Looks:
+say nothing - Shared by @Jwosty
+paint new costume - Shared by @sonicjosh
+go forward () layers - Shared by @coupdegrace
+flip - Shared by Jens Mönig (@jens)
+v flip - Shared by @owetre18
+layer # - Shared by @Pecola1
+go to layer - Shared by @Pecola1
+name of costume # - Shared by @Pecola1
+Sensing:
+getTime - Shared by LS97
+Sound:
+Operators:
+Pen:
+Variables:
