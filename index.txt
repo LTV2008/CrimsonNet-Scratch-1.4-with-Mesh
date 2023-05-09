@@ -52,14 +52,25 @@
 	<font size="-2" face="Verdana, Arial, Helvetica, sans-serif">
 	Overview of the Scratch interface and programming language.<br>
 	</font></div></td>
+	 <tr>
+    <td height="169" colspan="5">
+      <div align="center"><p>
+	<font size="-1" face="Verdana, Arial, Helvetica, sans-serif">
+	<br>
+	<strong><a href=" ">CrimsonNet Manual</a></strong></p>
+	<a href=" "><img src="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/Supply_Media/Screenshot%202023-05-06%20204940.png?raw=true" width="170" height="70" border="0"></a><br>
+	<font size="-2" face="Verdana, Arial, Helvetica, sans-serif">
+	<p>Go here to learn how to use CrimsonNet.</p>    </font></div></td>
+  </tr>
   </tr>
 
     <td height="169" colspan="5">
       <div align="center"><p>
 	<font size="-1" face="Verdana, Arial, Helvetica, sans-serif">
 	<br>
-	<strong><a href="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/Download/Scratch.image?raw=true">Download CrimsonNet</a></strong></p>
-	<strong><a href="https://en.scratch-wiki.info/wiki/Smalltalk#Images">How to Insert A Image In Scratch 1.4</a></strong></p>
+	<strong><a href="https://scratch.mit.edu/scratch_1.4">Download Scratch 1.4 (DO THIS FIRST!)</a></strong></p>
+	<strong><a href="https://github.com/LTV2008/CrimsonNet-Scratch-1.4-with-Mesh/blob/main/Download/Scratch.image?raw=true">Download CrimsonNet (Do this after installing Scratch 1.4)</a></strong></p>
+	<strong><a href="https://en.scratch-wiki.info/wiki/Smalltalk#Images">How to Insert A Image In Scratch 1.4 (BE SURE TO SET .IMAGE MIME TYPES TO SCRATCH 1.4!)</a></strong></p>
 	
 <br>
 <br>
