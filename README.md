@@ -1,5 +1,8 @@
 # CrimsonNet-Scratch-1.4-with-Mesh
 
+Note: This repo will no longer be Maintained by me as I will be moving focus to SmashMod. 
+This repository will still be open to the community so that they can improve on it.
+
 This is a mod of Scratch 1.4 with Mesh and extra blocks.
 
 This is a modifacation of Scratch.
